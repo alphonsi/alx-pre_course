@@ -1,1 +1,0 @@
-first pre-course diretory
