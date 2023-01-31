@@ -1,1 +1,1 @@
-My first precourse directory
+this is my first pre-course alx directory
